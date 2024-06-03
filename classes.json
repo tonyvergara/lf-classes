@@ -46,5 +46,17 @@
         "Topic": "topic",
         "Skill Level": "all levels",
         "Notes": "notes mockingjay: pt 2"
+    },
+    {
+        "Date": "December 28",
+        "Time": "3pm - 5pm",
+        "Room": "Crowne 2",
+        "Title": "more title",
+        "Description": NaN,
+        "Instructor 1": "First Lastname",
+        "Instructor 2": "First Lastname",
+        "Topic": NaN,
+        "Skill Level": NaN,
+        "Notes": NaN
     }
 ]
