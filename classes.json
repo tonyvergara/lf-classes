@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "December 26",
+        "Time": "11am - 1pm",
+        "Room": "Crowne 1",
+        "Title": "Yee, and I cannot stress this enough, Haw",
+        "Description": "Are we pretending to be cowboys? Who knows?",
+        "Instructor": "First Lastname",
+        "Instructor.1": "First Lastname",
+        "Topic": NaN,
+        "Skill Level": NaN,
+        "Notes": NaN
+    },
+    {
+        "Date": "December 26",
+        "Time": "3pm - 5pm",
+        "Room": "Blue Ridge",
+        "Title": "A fun title that is currently TBD",
+        "Description": "An introduction to music theory for dancers. Much more dancing than that sounds like.",
+        "Instructor": "First Lastname",
+        "Instructor.1": NaN,
+        "Topic": "Musicality",
+        "Skill Level": "Intermediate",
+        "Notes": NaN
+    }
+]
