@@ -22,5 +22,29 @@
         "Topic": "Musicality",
         "Skill Level": "Intermediate",
         "Notes": "notes"
+    },
+    {
+        "Date": "December 27",
+        "Time": "11am - 1pm",
+        "Room": "Crowne 2",
+        "Title": "yes",
+        "Description": "tbd",
+        "Instructor 1": "First Lastname",
+        "Instructor 2": NaN,
+        "Topic": NaN,
+        "Skill Level": NaN,
+        "Notes": NaN
+    },
+    {
+        "Date": "December 27",
+        "Time": "3pm - 5pm",
+        "Room": "Expo",
+        "Title": "ummm",
+        "Description": "this",
+        "Instructor 1": "First Lastname",
+        "Instructor 2": NaN,
+        "Topic": NaN,
+        "Skill Level": NaN,
+        "Notes": NaN
     }
 ]
