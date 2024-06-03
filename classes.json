@@ -5,11 +5,11 @@
         "Room": "Crowne 1",
         "Title": "Yee, and I cannot stress this enough, Haw",
         "Description": "Are we pretending to be cowboys? Who knows?",
-        "Instructor": "First Lastname",
-        "Instructor.1": "First Lastname",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Instructor 1": "First Lastname",
+        "Instructor 2": "First Lastname",
+        "Topic": "this",
+        "Skill Level": "beginner",
+        "Notes": "notes"
     },
     {
         "Date": "December 26",
@@ -17,10 +17,10 @@
         "Room": "Blue Ridge",
         "Title": "A fun title that is currently TBD",
         "Description": "An introduction to music theory for dancers. Much more dancing than that sounds like.",
-        "Instructor": "First Lastname",
-        "Instructor.1": NaN,
+        "Instructor 1": "First Lastname",
+        "Instructor 2": "First Lastname",
         "Topic": "Musicality",
         "Skill Level": "Intermediate",
-        "Notes": NaN
+        "Notes": "notes"
     }
 ]
