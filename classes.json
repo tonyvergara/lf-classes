@@ -30,7 +30,7 @@
         "Title": "yes",
         "Description": "tbd",
         "Instructor 1": "First Lastname",
-        "Instructor 2": NaN,
+        "Instructor 2": "First Lastname",
         "Topic": NaN,
         "Skill Level": NaN,
         "Notes": NaN
@@ -42,7 +42,7 @@
         "Title": "ummm",
         "Description": "this",
         "Instructor 1": "First Lastname",
-        "Instructor 2": NaN,
+        "Instructor 2": "First Lastname",
         "Topic": NaN,
         "Skill Level": NaN,
         "Notes": NaN
