@@ -21,7 +21,7 @@
         "Instructor 2": "First Lastname",
         "Topic": "Musicality",
         "Skill Level": "Intermediate",
-        "Notes": "notes"
+        "Notes": "2notes2furious"
     },
     {
         "Date": "December 27",
@@ -31,9 +31,9 @@
         "Description": "tbd",
         "Instructor 1": "First Lastname",
         "Instructor 2": "First Lastname",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "topic",
+        "Skill Level": "advanced",
+        "Notes": "notes and the return of the king"
     },
     {
         "Date": "December 27",
@@ -43,8 +43,8 @@
         "Description": "this",
         "Instructor 1": "First Lastname",
         "Instructor 2": "First Lastname",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "topic",
+        "Skill Level": "all levels",
+        "Notes": "notes mockingjay: pt 2"
     }
 ]
