@@ -52,11 +52,11 @@
         "Time": "3pm - 5pm",
         "Room": "Crowne 2",
         "Title": "more title",
-        "Description": NaN,
+        "Description": "TBD",
         "Instructor 1": "First Lastname",
         "Instructor 2": "First Lastname",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "idk",
+        "Skill Level": "yes",
+        "Notes": "none"
     }
 ]
