@@ -7,9 +7,7 @@
         "Instructor 2": NaN,
         "Title": "Closed for Setup",
         "Description": NaN,
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": NaN
     },
     {
         "Date": "December 27",
@@ -19,9 +17,7 @@
         "Instructor 2": "Laurel Ryan",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 27",
@@ -31,9 +27,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo"
     },
     {
         "Date": "December 27",
@@ -43,9 +37,7 @@
         "Instructor 2": "Julie Brown",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Blues"
     },
     {
         "Date": "December 27",
@@ -55,9 +47,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 27",
@@ -67,9 +57,7 @@
         "Instructor 2": "Irina Amzashvili",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 27",
@@ -79,9 +67,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 27",
@@ -91,9 +77,7 @@
         "Instructor 2": "D",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Balboa"
     },
     {
         "Date": "December 27",
@@ -103,9 +87,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Music",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Music"
     },
     {
         "Date": "December 27",
@@ -115,9 +97,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -127,9 +107,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -139,9 +117,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -151,9 +127,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -163,9 +137,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -175,9 +147,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -187,9 +157,7 @@
         "Instructor 2": "Chester Whitmore",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 28",
@@ -199,9 +167,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 28",
@@ -211,9 +177,7 @@
         "Instructor 2": "Chisomo Selemani",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Balboa"
     },
     {
         "Date": "December 28",
@@ -223,9 +187,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 28",
@@ -235,9 +197,7 @@
         "Instructor 2": NaN,
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Tap",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Tap"
     },
     {
         "Date": "December 29",
@@ -247,9 +207,7 @@
         "Instructor 2": "Irina Amzashvili",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 29",
@@ -259,9 +217,7 @@
         "Instructor 2": "Laurel Ryan",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 29",
@@ -271,9 +227,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo"
     },
     {
         "Date": "December 29",
@@ -283,9 +237,7 @@
         "Instructor 2": "Julie Brown",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Blues"
     },
     {
         "Date": "December 29",
@@ -295,9 +247,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Tap",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Tap"
     },
     {
         "Date": "December 29",
@@ -307,9 +257,7 @@
         "Instructor 2": "Chester Whitmore",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 29",
@@ -319,9 +267,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 29",
@@ -331,9 +277,7 @@
         "Instructor 2": "Chisomo Selemani",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Balboa"
     },
     {
         "Date": "December 29",
@@ -343,9 +287,7 @@
         "Instructor 2": NaN,
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Music",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Music"
     },
     {
         "Date": "December 29",
@@ -355,9 +297,7 @@
         "Instructor 2": NaN,
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo"
     },
     {
         "Date": "December 30",
@@ -367,9 +307,7 @@
         "Instructor 2": "Irina Amzashvili",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 30",
@@ -379,9 +317,7 @@
         "Instructor 2": "Laurel Ryan",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 30",
@@ -391,9 +327,7 @@
         "Instructor 2": NaN,
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo"
     },
     {
         "Date": "December 30",
@@ -403,9 +337,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Music",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Music"
     },
     {
         "Date": "December 30",
@@ -415,9 +347,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo Routine",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo Routine"
     },
     {
         "Date": "December 30",
@@ -427,9 +357,7 @@
         "Instructor 2": "Chester Whitmore",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 30",
@@ -439,9 +367,7 @@
         "Instructor 2": "Caleb Teicher",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 30",
@@ -451,9 +377,7 @@
         "Instructor 2": "D",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Balboa"
     },
     {
         "Date": "December 30",
@@ -463,9 +387,7 @@
         "Instructor 2": "Julie Brown",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Blues"
     },
     {
         "Date": "December 30",
@@ -475,69 +397,57 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo Routine",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo Routine"
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Expo",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "TBD",
+        "Instructor 2": "TBD",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Field Day"
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Crowne 1",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "TBD",
+        "Instructor 2": "TBD",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Field Day"
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "TBD",
+        "Instructor 2": "TBD",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Field Day"
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Blue Ridge",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "TBD",
+        "Instructor 2": "TBD",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": NaN,
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Field Day"
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Foxfire",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "TBD",
+        "Instructor 2": "TBD",
         "Title": "Teacher Summit",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Teachers"
     },
     {
         "Date": "December 31",
@@ -547,9 +457,7 @@
         "Instructor 2": "Chester Whitmore",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Lindy Hop"
     },
     {
         "Date": "December 31",
@@ -559,9 +467,7 @@
         "Instructor 2": "Chisomo Selemani",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Balboa"
     },
     {
         "Date": "December 31",
@@ -571,9 +477,7 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "TBD"
     },
     {
         "Date": "December 31",
@@ -583,9 +487,7 @@
         "Instructor 2": "Jamica Zion",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Blues"
     },
     {
         "Date": "December 31",
@@ -595,8 +497,6 @@
         "Instructor 2": "TBD",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo",
-        "Skill Level": NaN,
-        "Notes": NaN
+        "Topic": "Solo"
     }
 ]
