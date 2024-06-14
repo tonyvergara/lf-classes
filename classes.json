@@ -3,10 +3,10 @@
         "Date": "December 27",
         "Time": "11am - 1pm",
         "Room": "Expo",
-        "Instructor 1": NaN,
-        "Instructor 2": NaN,
+        "Instructor 1": "Not Needed",
+        "Instructor 2": "Not Needed",
         "Title": "Closed for Setup",
-        "Description": NaN,
+        "Description": "Not Needed",
         "Topic": NaN
     },
     {
@@ -194,7 +194,7 @@
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
         "Instructor 1": "Caleb Teicher",
-        "Instructor 2": NaN,
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Tap"
@@ -284,7 +284,7 @@
         "Time": "3pm - 5pm",
         "Room": "Blue Ridge",
         "Instructor 1": "Jon Tigert",
-        "Instructor 2": NaN,
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Music"
@@ -294,7 +294,7 @@
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
         "Instructor 1": "Chisomo Selemani",
-        "Instructor 2": NaN,
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Solo"
@@ -324,7 +324,7 @@
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
         "Instructor 1": "Caleb Teicher",
-        "Instructor 2": NaN,
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Solo"
