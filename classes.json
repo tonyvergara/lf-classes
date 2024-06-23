@@ -94,7 +94,7 @@
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
         "Instructor 1": "Chisomo",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "Elective Class",
         "Description": "TBD",
         "Topic": "Solo"
@@ -124,7 +124,7 @@
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
         "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Solo"
@@ -144,7 +144,7 @@
         "Time": "11am - 1pm",
         "Room": "Foxfire",
         "Instructor 1": "Caleb",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "Tap Fundamentals",
         "Description": "TBD",
         "Topic": "Tap"
@@ -224,7 +224,7 @@
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
         "Instructor 1": "Laurel",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Solo"
@@ -244,7 +244,7 @@
         "Time": "11am - 1pm",
         "Room": "Foxfire",
         "Instructor 1": "Caleb",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
         "Topic": "Tap"
@@ -494,7 +494,7 @@
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
         "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 2": "Not Needed",
         "Title": "Solo Masterclass",
         "Description": "TBD",
         "Topic": "Solo"
