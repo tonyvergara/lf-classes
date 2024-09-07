@@ -7,7 +7,8 @@
         "Instructor 2": "Not Needed",
         "Title": "Closed for Setup",
         "Description": "Not Needed",
-        "Topic": "Not Needed"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 27",
@@ -17,17 +18,19 @@
         "Instructor 2": "Bobby",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": "Beginner Friendly"
     },
     {
         "Date": "December 27",
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Natalia",
-        "Instructor 2": "Tim",
+        "Instructor 1": "Andrea",
+        "Instructor 2": "Andy",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 27",
@@ -37,7 +40,8 @@
         "Instructor 2": "Julie",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues"
+        "Topic": "Blues",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 27",
@@ -47,7 +51,8 @@
         "Instructor 2": "Chisomo",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": NaN
     },
     {
         "Date": "December 27",
@@ -57,47 +62,52 @@
         "Instructor 2": "Irina",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Lindy Hop Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 27",
         "Time": "3pm - 5pm",
         "Room": "Crowne 1",
         "Instructor 1": "Andrea",
-        "Instructor 2": "Matt",
+        "Instructor 2": "Andy",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": "Beginner Friendly"
     },
     {
         "Date": "December 27",
         "Time": "3pm - 5pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Laura",
-        "Instructor 2": "Caleb",
+        "Instructor 1": "Natalia",
+        "Instructor 2": "Tim",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 27",
         "Time": "3pm - 5pm",
         "Room": "Blue Ridge",
-        "Instructor 1": "Jon",
-        "Instructor 2": "Not Needed",
+        "Instructor 1": "Laura",
+        "Instructor 2": "Caleb",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Music"
+        "Topic": "Interns",
+        "Tag": NaN
     },
     {
         "Date": "December 27",
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
-        "Instructor 1": "Chisomo",
+        "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Elective Class",
+        "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -107,7 +117,8 @@
         "Instructor 2": "Irina",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Lindy Hop Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -117,7 +128,8 @@
         "Instructor 2": "Caleb",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 28",
@@ -127,37 +139,41 @@
         "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo"
+        "Topic": "Solo",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
         "Time": "11am - 1pm",
         "Room": "Blue Ridge",
-        "Instructor 1": "TBD",
+        "Instructor 1": "Jon",
         "Instructor 2": "TBD",
-        "Title": "Interns",
+        "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Music",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
         "Time": "11am - 1pm",
         "Room": "Foxfire",
-        "Instructor 1": "Sara Sofia",
-        "Instructor 2": "D",
-        "Title": "TBD",
+        "Instructor 1": "Sara-Sofia",
+        "Instructor 2": "Dee",
+        "Title": "Balboa Survivor's Kit",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": "Beginner Friendly"
     },
     {
         "Date": "December 28",
         "Time": "3pm - 5pm",
         "Room": "Expo",
         "Instructor 1": "Andrea",
-        "Instructor 2": "Chester",
+        "Instructor 2": "Andy",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -167,7 +183,8 @@
         "Instructor 2": "Bobby",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -177,7 +194,8 @@
         "Instructor 2": "Matt",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -187,7 +205,8 @@
         "Instructor 2": "Julie",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues"
+        "Topic": "Blues",
+        "Tag": NaN
     },
     {
         "Date": "December 28",
@@ -197,7 +216,8 @@
         "Instructor 2": "Not Needed",
         "Title": "Tap Fundamentals",
         "Description": "TBD",
-        "Topic": "Tap"
+        "Topic": "Tap",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
@@ -207,27 +227,30 @@
         "Instructor 2": "Irina",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Lindy Hop Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
         "Time": "11am - 1pm",
         "Room": "Crowne 1",
-        "Instructor 1": "Jamica",
-        "Instructor 2": "Jon",
+        "Instructor 1": "Natalia",
+        "Instructor 2": "Matt",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 29",
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Irina",
-        "Instructor 2": "Natalia",
-        "Title": "Switch",
+        "Instructor 1": "Jamica",
+        "Instructor 2": "Not Needed",
+        "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Solo",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
@@ -237,7 +260,8 @@
         "Instructor 2": "Julie",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues"
+        "Topic": "Blues",
+        "Tag": "Beginner Friendly"
     },
     {
         "Date": "December 29",
@@ -247,47 +271,52 @@
         "Instructor 2": "Chisomo",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 29",
         "Time": "3pm - 5pm",
         "Room": "Expo",
-        "Instructor 1": "Andrea",
-        "Instructor 2": "Chester",
+        "Instructor 1": "Laura",
+        "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Solo Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
         "Time": "3pm - 5pm",
         "Room": "Crowne 1",
-        "Instructor 1": "Natalia",
-        "Instructor 2": "Matt",
+        "Instructor 1": "Jamica",
+        "Instructor 2": "Natalia",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
         "Time": "3pm - 5pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Laura",
-        "Instructor 2": "Not Needed",
+        "Instructor 1": "Andrea",
+        "Instructor 2": "Andy",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo Routine"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
         "Time": "3pm - 5pm",
         "Room": "Blue Ridge",
         "Instructor 1": "Jon",
-        "Instructor 2": "Not Needed",
-        "Title": "Interns",
+        "Instructor 2": "Chisomo",
+        "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Interns",
+        "Tag": NaN
     },
     {
         "Date": "December 29",
@@ -297,7 +326,8 @@
         "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Tap"
+        "Topic": "Tap",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
@@ -307,7 +337,8 @@
         "Instructor 2": "Irina",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Lindy Hop Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
@@ -317,67 +348,74 @@
         "Instructor 2": "Caleb",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Laurel",
-        "Instructor 2": "Not Needed",
+        "Instructor 1": "Andrea",
+        "Instructor 2": "Andy",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo"
+        "Topic": "Solo",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "11am - 1pm",
         "Room": "Blue Ridge",
         "Instructor 1": "Chisomo",
-        "Instructor 2": "Not Needed",
+        "Instructor 2": "Jon",
         "Title": "Interns",
         "Description": "TBD",
-        "Topic": "TBD"
+        "Topic": "Interns",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "11am - 1pm",
         "Room": "Foxfire",
-        "Instructor 1": "Jamica",
+        "Instructor 1": "Laurel",
         "Instructor 2": "Not Needed",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Solo"
+        "Topic": "Solo",
+        "Tag": "Beginner Friendly"
     },
     {
         "Date": "December 30",
         "Time": "3pm - 5pm",
         "Room": "Expo",
-        "Instructor 1": "Andrea",
-        "Instructor 2": "Chester",
-        "Title": "TBD",
+        "Instructor 1": "Laura",
+        "Instructor 2": "Not Needed",
+        "Title": "Solo Routine Pt 2",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Solo Routine",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "3pm - 5pm",
         "Room": "Crowne 1",
-        "Instructor 1": "Jon",
+        "Instructor 1": "Matt",
         "Instructor 2": "Chisomo",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "3pm - 5pm",
         "Room": "Crowne 2",
-        "Instructor 1": "Laura",
-        "Instructor 2": "Not Needed",
-        "Title": "TBD",
+        "Instructor 1": "Natalia",
+        "Instructor 2": "Irina",
+        "Title": "Switch",
         "Description": "TBD",
-        "Topic": "Solo Routine"
+        "Topic": "TBD",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
@@ -387,77 +425,85 @@
         "Instructor 2": "Julie",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues"
+        "Topic": "Blues",
+        "Tag": NaN
     },
     {
         "Date": "December 30",
         "Time": "3pm - 5pm",
         "Room": "Foxfire",
-        "Instructor 1": "Sara Sofia",
-        "Instructor 2": "D",
+        "Instructor 1": "Sara-Sofia",
+        "Instructor 2": "Dee",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Expo",
-        "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 1": "Not Needed",
+        "Instructor 2": "Not Needed",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": "Not Needed"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Crowne 1",
-        "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 1": "Not Needed",
+        "Instructor 2": "Not Needed",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": "Not Needed"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Crowne 2",
-        "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 1": "Not Needed",
+        "Instructor 2": "Not Needed",
         "Title": "Field Day",
         "Description": "These are not dance classes.",
-        "Topic": "Not Needed"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Blue Ridge",
         "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
-        "Title": "Field Day",
+        "Instructor 2": "Not Needed",
+        "Title": "Community Yard Sale",
         "Description": "These are not dance classes.",
-        "Topic": "Not Needed"
+        "Topic": "Not Needed",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "11am - 1pm",
         "Room": "Foxfire",
-        "Instructor 1": "TBD",
-        "Instructor 2": "TBD",
+        "Instructor 1": "Not Needed",
+        "Instructor 2": "Not Needed",
         "Title": "Teacher Summit & Interns",
         "Description": "TBD",
-        "Topic": "Teachers"
+        "Topic": "Teachers",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
         "Time": "3pm - 5pm",
         "Room": "Expo",
-        "Instructor 1": "Andrea",
-        "Instructor 2": "Chester",
+        "Instructor 1": "Anthony",
+        "Instructor 2": "Irina",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
@@ -467,7 +513,8 @@
         "Instructor 2": "Laurel",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Lindy Hop"
+        "Topic": "Lindy Hop",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
@@ -477,7 +524,8 @@
         "Instructor 2": "Matt",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": "Advanced"
     },
     {
         "Date": "December 31",
@@ -487,7 +535,8 @@
         "Instructor 2": "Jamica",
         "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Blues"
+        "Topic": "Blues",
+        "Tag": NaN
     },
     {
         "Date": "December 31",
@@ -495,8 +544,9 @@
         "Room": "Foxfire",
         "Instructor 1": "Bobby",
         "Instructor 2": "Chisomo",
-        "Title": "Solo Masterclass",
+        "Title": "TBD",
         "Description": "TBD",
-        "Topic": "Balboa"
+        "Topic": "Balboa",
+        "Tag": NaN
     }
 ]
