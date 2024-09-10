@@ -93,9 +93,9 @@
         "Room": "Blue Ridge",
         "Instructor 1": "Laura",
         "Instructor 2": "Caleb",
-        "Title": "TBD",
+        "Title": "Closed",
         "Description": "TBD",
-        "Topic": "Interns",
+        "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
     {
@@ -313,9 +313,9 @@
         "Room": "Blue Ridge",
         "Instructor 1": "Jon",
         "Instructor 2": "Chisomo",
-        "Title": "TBD",
+        "Title": "Closed",
         "Description": "TBD",
-        "Topic": "Interns",
+        "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
     {
@@ -368,9 +368,9 @@
         "Room": "Blue Ridge",
         "Instructor 1": "Chisomo",
         "Instructor 2": "Jon",
-        "Title": "Interns",
+        "Title": "Closed",
         "Description": "TBD",
-        "Topic": "Interns",
+        "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
     {
@@ -445,7 +445,7 @@
         "Room": "Expo",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Field Day",
+        "Title": "Closed",
         "Description": "These are not dance classes.",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
@@ -456,7 +456,7 @@
         "Room": "Crowne 1",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Field Day",
+        "Title": "Closed",
         "Description": "These are not dance classes.",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
@@ -467,7 +467,7 @@
         "Room": "Crowne 2",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Field Day",
+        "Title": "Closed",
         "Description": "These are not dance classes.",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
@@ -478,7 +478,7 @@
         "Room": "Blue Ridge",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Community Yard Sale",
+        "Title": "Closed",
         "Description": "These are not dance classes.",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
@@ -489,9 +489,9 @@
         "Room": "Foxfire",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Teacher Summit & Interns",
+        "Title": "Closed",
         "Description": "TBD",
-        "Topic": "Teachers",
+        "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
     {
