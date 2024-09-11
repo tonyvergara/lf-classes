@@ -1,0 +1,93 @@
+[
+    {
+        "Name": "Easy Speak",
+        "Style": "Corn Lager",
+        "Description": "Pale, crisp, sessionable",
+        "ABV": "5.0%",
+        "On Menu": true
+    },
+    {
+        "Name": "Hike On",
+        "Style": "Helles",
+        "Description": "Nutty, fresh bread",
+        "ABV": "4.5%",
+        "On Menu": true
+    },
+    {
+        "Name": "Progress",
+        "Style": "ESB",
+        "Description": "Traditional, malty, bitter",
+        "ABV": "4.6%",
+        "On Menu": true
+    },
+    {
+        "Name": "Pigtown Pride",
+        "Style": "Porter",
+        "Description": "Robust, complex, Cascade hops",
+        "ABV": "5.3%",
+        "On Menu": true
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On Menu": false
+    }
+]
