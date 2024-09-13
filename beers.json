@@ -3,28 +3,24 @@
         "Name": "Easy Speak",
         "Style": "Corn Lager",
         "Description": "Pale, crisp, sessionable",
-        "ABV": "5.0%",
-        "On Menu": true
+        "ABV": "5.0%"
     },
     {
         "Name": "Hike On",
         "Style": "Helles",
         "Description": "Nutty, fresh bread",
-        "ABV": "4.5%",
-        "On Menu": true
+        "ABV": "4.5%"
     },
     {
         "Name": "Progress",
         "Style": "ESB",
         "Description": "Traditional, malty, bitter",
-        "ABV": "4.6%",
-        "On Menu": true
+        "ABV": "4.6%"
     },
     {
         "Name": "Pigtown Pride",
         "Style": "Porter",
         "Description": "Robust, complex, Cascade hops",
-        "ABV": "5.3%",
-        "On Menu": true
+        "ABV": "5.3%"
     }
 ]
