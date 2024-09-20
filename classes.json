@@ -5,8 +5,8 @@
         "Room": "Expo",
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
-        "Title": "Closed for Setup",
-        "Description": "TBD",
+        "Title": "Closed",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -94,7 +94,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "TBD",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -314,7 +314,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "TBD",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -369,7 +369,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "TBD",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -446,7 +446,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "No Classes",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -457,7 +457,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "No Classes",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -468,7 +468,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "No Classes",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -479,7 +479,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "No Classes",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
@@ -490,7 +490,7 @@
         "Instructor 1": "Not Needed",
         "Instructor 2": "Not Needed",
         "Title": "Closed",
-        "Description": "No Classes",
+        "Description": "Not Needed",
         "Topic": "Not Needed",
         "Tag": "Not Needed"
     },
