@@ -1,26 +1,121 @@
 [
     {
         "Name": "Easy Speak",
-        "Style": "Corn Lager",
+        "Style ": "Corn Lager",
         "Description": "Pale, crisp, sessionable",
-        "ABV": "5.0%"
+        "ABV": "5%",
+        "On the Menu": true
     },
     {
         "Name": "Hike On",
-        "Style": "Helles",
+        "Style ": "Helles",
         "Description": "Nutty, fresh bread",
-        "ABV": "4.5%"
+        "ABV": "4.5%",
+        "On the Menu": true
     },
     {
         "Name": "Progress",
-        "Style": "ESB",
+        "Style ": "ESB",
         "Description": "Traditional, malty, bitter",
-        "ABV": "4.6%"
+        "ABV": "4.6%",
+        "On the Menu": true
     },
     {
         "Name": "Pigtown Pride",
-        "Style": "Porter",
+        "Style ": "Porter",
         "Description": "Robust, complex, Cascade hops",
-        "ABV": "5.3%"
+        "ABV": "5.3%",
+        "On the Menu": true
+    },
+    {
+        "Name": "Ivory Shoulders",
+        "Style ": "Belgian Dubbel",
+        "Description": "Rich, dried fruit, pepper; Collaboration with Suspended Brewing",
+        "ABV": "7%",
+        "On the Menu": true
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
+    },
+    {
+        "Name": NaN,
+        "Style ": NaN,
+        "Description": NaN,
+        "ABV": NaN,
+        "On the Menu": false
     }
 ]
