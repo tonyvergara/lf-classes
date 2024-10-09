@@ -1,37 +1,44 @@
 [
     {
-        "Name": "Easy Speak",
-        "Style": "Corn Lager",
-        "Description": "Pale, crisp, sessionable",
+        "Name": "Easy Speak Pre Prohibition Lager ",
+        "Style": "Pale, crisp, sessionable ",
+        "Description": "Reminiscent of a Pre-prohibition Pilsner, \nthis light colored lager is made with 20% \ncorn and Motueka hops.  ",
         "ABV": "5%",
         "On the Menu": true
     },
     {
-        "Name": "Hike On",
-        "Style": "Helles",
-        "Description": "Nutty, fresh bread",
+        "Name": "Hike On Helles",
+        "Style": "Nutty, fresh bread",
+        "Description": "A classic German Munich Lager. Light body and delicate bready backbone married with a rounded noble hop character.",
         "ABV": "4.5%",
         "On the Menu": true
     },
     {
-        "Name": "Progress",
-        "Style": "ESB",
-        "Description": "Traditional, malty, bitter",
+        "Name": "Progress English Brown ",
+        "Style": "Traditional, malty, bitter",
+        "Description": "A traditional english style bitter with Progress hops. ",
         "ABV": "4.6%",
         "On the Menu": true
     },
     {
-        "Name": "Pigtown Pride",
-        "Style": "Porter",
-        "Description": "Robust, complex, Cascade hops",
+        "Name": "Pigtown Pride Porter",
+        "Style": "Robust, complex, Cascade hops",
+        "Description": "A mighty complex and robust American porter that is finished with locally grown late boil addition Cascade hops that we love.",
         "ABV": "5.3%",
         "On the Menu": true
     },
     {
-        "Name": "Ivory Shoulders",
-        "Style": "Belgian Dubbel",
-        "Description": "Rich, dried fruit, pepper; Collaboration with Suspended Brewing",
+        "Name": "Ivory Shoulders Belgian Dubbel ",
+        "Style": "dried fruit, pepper",
+        "Description": "Collaboration with Suspended Brewing",
         "ABV": "7%",
+        "On the Menu": true
+    },
+    {
+        "Name": "Arnold Palmer (NA)",
+        "Style": "Tangy, lemon, honey, mint ",
+        "Description": "Our house made NA offering made with fresh squeezed lemons, black tea, honey and local mint.",
+        "ABV": "0%",
         "On the Menu": true
     }
 ]
