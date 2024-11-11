@@ -1,7 +1,37 @@
 [
     {
-        "Name": "#N/A",
+        "Name": "Pulled Pork Sliders (2) and Chips",
+        "Description": "Your choice of tradiitonal BBQ sauce or Carolina Gold",
+        "Price": "$12.00"
+    },
+    {
+        "Name": "Pierogies (4)",
+        "Description": "Potato pierogies topped with a sauteed butter and onion sauce. Comes with a side of sour cream and chives.",
+        "Price": "$10.00"
+    },
+    {
+        "Name": "Bavarian Bratwurst sticks (2) and Chips",
         "Description": "Not Needed",
-        "Price": "Not Needed"
+        "Price": "$10.00"
+    },
+    {
+        "Name": "Soft Pretzel Sticks (2)",
+        "Description": "With a duo of beer mustards made with our own beer",
+        "Price": "$8.00"
+    },
+    {
+        "Name": "Mezze Platter ",
+        "Description": "Not Needed",
+        "Price": "$10.00"
+    },
+    {
+        "Name": "Caprese Panini & Chips",
+        "Description": "Not Needed",
+        "Price": "$12.00"
+    },
+    {
+        "Name": "Reuben Sandwich & Chips",
+        "Description": "Not Needed",
+        "Price": "$12.00"
     }
 ]
