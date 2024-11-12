@@ -10,28 +10,33 @@
         "Price": "$10.00"
     },
     {
-        "Name": "Bavarian Bratwurst sticks (2) and Chips",
+        "Name": "Bavarian Bratwurst and Chips",
         "Description": "Not Needed",
         "Price": "$10.00"
     },
     {
         "Name": "Soft Pretzel Sticks (2)",
-        "Description": "With a duo of beer mustards made with our own beer",
+        "Description": "With a duo of beer mustards made with our own beer belgian Dubbel/grain mustard",
         "Price": "$8.00"
     },
     {
         "Name": "Mezze Platter ",
-        "Description": "Not Needed",
+        "Description": "Tazaki, olives, house made pita chips, choice of two humus",
         "Price": "$10.00"
     },
     {
         "Name": "Caprese Panini & Chips",
-        "Description": "Not Needed",
+        "Description": "Confit tomato, fresh mozz, fesh basil with balsmic dipping sauce ",
         "Price": "$12.00"
     },
     {
         "Name": "Reuben Sandwich & Chips",
         "Description": "Not Needed",
         "Price": "$12.00"
+    },
+    {
+        "Name": "House Made Hard Pretzel Bites",
+        "Description": "Not Needed",
+        "Price": "$4.00"
     }
 ]
