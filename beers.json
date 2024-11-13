@@ -51,7 +51,7 @@
         "Name": "Quartet Saison",
         "Style": "Serving sizes: 10 oz, taster",
         "Description": "10 oz pour - Named for the four different yeast/microbes. We designed this to be like a well balanced meal culminating many different tastes to deliver a refreshingly complex experience of hoppy, funk, tart and Saison character. ",
-        "ABV": "6%%"
+        "ABV": "6.0%"
     },
     {
         "Name": "Erised Flanders Red",
@@ -68,13 +68,13 @@
     {
         "Name": "Domus, Chardonnay",
         "Style": "Serving Size: 5 oz",
-        "Description": NaN,
-        "ABV": NaN
+        "Description": "Not Needed",
+        "ABV": "Not Needed"
     },
     {
         "Name": "Tavernello, Vino Rosso D'italia Red Wine",
         "Style": "Serving Size: 5 oz",
-        "Description": NaN,
-        "ABV": NaN
+        "Description": "Not Needed",
+        "ABV": "12.0%"
     }
 ]
