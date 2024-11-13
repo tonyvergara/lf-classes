@@ -64,5 +64,17 @@
         "Style": "Serving Size: Pint only",
         "Description": "Our house made NA offering made with fresh squeezed lemons, black tea, honey and local mint.",
         "ABV": "0.0%"
+    },
+    {
+        "Name": "Domus, Chardonnay",
+        "Style": "Serving Size: 5 oz",
+        "Description": NaN,
+        "ABV": NaN
+    },
+    {
+        "Name": "Tavernello, Vino Rosso D'italia Red Wine",
+        "Style": "Serving Size: 5 oz",
+        "Description": NaN,
+        "ABV": NaN
     }
 ]
