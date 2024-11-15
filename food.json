@@ -11,7 +11,7 @@
     },
     {
         "Name": "Bavarian Bratwurst and Chips",
-        "Description": "Not Needed",
+        "Description": "Duo of Helles lager/Dijon mustard and Belgian Dubbel/ground mustard made in house",
         "Price": "$10.00"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "Name": "Mezze Platter ",
-        "Description": "Served on our signature barrel staves. Tazaki, olives, house made pita chips, choice of two humus",
+        "Description": "Served on our signature barrel staves. Tzatziki , olives, house made pita chips, choice of two hummus",
         "Price": "$10.00"
     },
     {
@@ -31,12 +31,17 @@
     },
     {
         "Name": "Reuben Sandwich & Chips",
-        "Description": "Not Needed",
+        "Description": "Rye bread, corned beef, Swiss, sauerkraut, thousand island dressing",
         "Price": "$12.00"
     },
     {
-        "Name": "House Made Hard Pretzel Bites",
-        "Description": "Not Needed",
-        "Price": "$4.00"
+        "Name": "House Made Pretzel Bites",
+        "Description": "Your choice of brown sugar and cinnamon or honey old bay",
+        "Price": "$6.00"
+    },
+    {
+        "Name": "Turkey and Swiss Panini & Chips",
+        "Description": "Turkey, Swiss, & Helles Dijon Mustard",
+        "Price": "$12.00"
     }
 ]
