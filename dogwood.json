@@ -28,7 +28,7 @@
     },
     {
         "Date": "December 27",
-        "Time": "1:00p - 3:00p",
+        "Time": "1p - 3p",
         "Short Title": "Tie-Dye",
         "Long Title": "Not Needed",
         "Leaders": "Not Needed",
@@ -82,20 +82,11 @@
     },
     {
         "Date": "December 28",
-        "Time": "5:00p - 7:00p",
+        "Time": "5p - 7p",
         "Short Title": "Secret Handshake Club; Team Rock, Paper, Scissors",
         "Long Title": "Not Needed",
         "Leaders": "Not Needed",
         "Description": "You've done Rock, Paper, Scissors as an individual, but have you done it as a team?  It is a race to the finish, and only you and your teammates can defend your kingdom!  (5 players per team)",
-        "Location": "Dogwood"
-    },
-    {
-        "Date": "December 28",
-        "Time": "5:30p - 7:30p",
-        "Short Title": "Closed",
-        "Long Title": "Not Needed",
-        "Leaders": "Not Needed",
-        "Description": "Not Needed",
         "Location": "Dogwood"
     },
     {
@@ -118,7 +109,7 @@
     },
     {
         "Date": "December 29",
-        "Time": "1:00p - 3:00p",
+        "Time": "1p - 3p",
         "Short Title": "Avalanche",
         "Long Title": "Not Needed",
         "Leaders": "Not Needed",
@@ -172,12 +163,12 @@
     },
     {
         "Date": "December 30",
-        "Time": "5:00p - 7:00p",
+        "Time": "5p - 7p",
         "Short Title": "Create Scene Flags",
         "Long Title": "Not Needed",
         "Leaders": "Not Needed",
         "Description": "Do you have trouble finding your scene at events, or do you just want to express your joy and pride?  Come make a scene flag! You can also use it show off any Lindy Focus pin that your scene has earned.",
-        "Location": "TBD"
+        "Location": "Foxfire"
     },
     {
         "Date": "December 30",
