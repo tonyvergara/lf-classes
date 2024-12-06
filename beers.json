@@ -4,90 +4,90 @@
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "Pale, crisp, sessionable. Reminiscent of a Pre-prohibition Pilsner, \nthis light colored lager is made with 20% \ncorn and Motueka hops.  ",
         "ABV": "5.0%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Hike On Helles Lager",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "A classic German Munich Lager. Light body and delicate bready backbone married with a rounded noble hop character.",
         "ABV": "4.5%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Progress English Brown ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "A traditional malty english style bitter with Progress hops. ",
         "ABV": "4.6%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Pigtown Pride Porter",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "A mighty complex and robust American porter that is finished with late boil addition Cascade hops that we love. Notes of chocolate and roasted malt. ",
         "ABV": "5.3%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Ivory Shoulders Belgian Dubbel ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "Collaboration with Suspended Brewing. Burgundy color and has deeply complex flavors with notes of dried figs, caramel, and honey. The aroma is full of fruity esters with hints of raisin, banana, dried cherry and clove.",
         "ABV": "7.0%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Liquid Hop Luck IPA ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "American IPA/60 IBU - Copious amounts of Cascsde, Chinook and CTZ hops provide a healthy does of citrus, melon and pine. ",
         "ABV": "5.5%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "912 Pale Ale",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "24 IBU - A soft and crushable malt bill. A healthy amount of resin, citrus and dank notes. Simcoe, Amarillo and Cascade. ",
         "ABV": "4.8%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Golden Wisp Hefeweizen",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "Traditional Hefeweizen made with 60% wheat malt. Notes of banana, citrus, orange and clove. ",
         "ABV": "4.8%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Quartet Saison",
         "Style": "Serving sizes: 10 oz, taster",
         "Description": "Named for the four different yeast/microbes. We designed this to be like a well balanced meal culminating many different tastes to deliver a refreshingly complex experience of hoppy, funk, tart and Saison character. ",
         "ABV": "6.0%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Erised Flanders Red",
         "Style": "Serving sizes: 10 oz, taster",
         "Description": "Sour, red wine like impression with intense dried fruit, red currants, plum, black cherries, clove. In Collaboration with Suspended Brewing who gifted us a two year old barrel filled with amber beer we blended with the Ivory Shoulders Belgian Dubbel malt bill and continued to age another few months before kegging.  ",
         "ABV": "8.5%",
-        "": "Beer"
+        "Type": "Beer"
     },
     {
         "Name": "Arnold Palmer (NA)",
         "Style": "Serving Size: Pint only",
         "Description": "Our house made NA offering made with fresh squeezed lemons, black tea, honey and local mint.",
         "ABV": "0.0%",
-        "": "Non-Alcoholic"
+        "Type": "Non-Alcoholic"
     },
     {
         "Name": "Domus, Chardonnay",
         "Style": "Serving Size: 5 oz",
         "Description": "Not Needed",
         "ABV": "11.5%",
-        "": "Wine, Cider, Seltzer"
+        "Type": "Wine, Cider, Seltzer"
     },
     {
         "Name": "Tavernello, Vino Rosso D'italia Red Wine",
         "Style": "Serving Size: 5 oz",
         "Description": "Not Needed",
         "ABV": "12.0%",
-        "": "Wine, Cider, Seltzer"
+        "Type": "Wine, Cider, Seltzer"
     }
 ]
