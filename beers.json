@@ -74,20 +74,20 @@
         "Style": "Serving Size: Pint only",
         "Description": "Our house made NA offering made with fresh squeezed lemons, black tea, honey and local mint.",
         "ABV": "0.0%",
-        "Type": "Non-Alcoholic"
+        "Type": "Wine, Cider, Seltzer, Non-Alcoholic"
     },
     {
         "Name": "Domus, Chardonnay",
         "Style": "Serving Size: 5 oz",
         "Description": "Not Needed",
         "ABV": "11.5%",
-        "Type": "Wine, Cider, Seltzer"
+        "Type": "Wine, Cider, Seltzer, Non-Alcoholic"
     },
     {
         "Name": "Tavernello, Vino Rosso D'italia Red Wine",
         "Style": "Serving Size: 5 oz",
         "Description": "Not Needed",
         "ABV": "12.0%",
-        "Type": "Wine, Cider, Seltzer"
+        "Type": "Wine, Cider, Seltzer, Non-Alcoholic"
     }
 ]
