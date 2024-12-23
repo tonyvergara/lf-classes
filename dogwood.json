@@ -118,6 +118,15 @@
     },
     {
         "Date": "December 28",
+        "Time": "1p - 3p",
+        "Short Title": "Black Folks Kickback",
+        "Long Title": "Not Needed",
+        "Leaders": "Jamica",
+        "Description": "If you identify as Black, come with your lunch and get some quality time with your peers and guest of honor, David Butts! Community building over food, games, dance, and conversations. \ud83d\ude42",
+        "Location": "Dogwood"
+    },
+    {
+        "Date": "December 28",
         "Time": "3p - 5p",
         "Short Title": "Creating Safe Spaces & Addressing Mental Health Concerns",
         "Long Title": "Not Needed",
@@ -190,15 +199,6 @@
     },
     {
         "Date": "December 29",
-        "Time": "5:30p - 7:30p",
-        "Short Title": "Queer Blues and Jazz History",
-        "Long Title": "Not Needed",
-        "Leaders": "Jamica",
-        "Description": "This presentation highlights queer historical figures and why it\u2019s important to know and share their lives today. There will be lots of media to enjoy!",
-        "Location": "Dogwood"
-    },
-    {
-        "Date": "December 29",
         "Time": "5:30p - 7p",
         "Short Title": "Open Dance Practice",
         "Long Title": "Not Needed",
@@ -236,11 +236,11 @@
     {
         "Date": "December 30",
         "Time": "1p - 3p",
-        "Short Title": "Intersectionality Panel",
+        "Short Title": "Queer Intersectionality Panel",
         "Long Title": "Intersectionality\u2013 What Is It and Why It Matters",
-        "Leaders": "Jamica, Chisomo, Marcia",
+        "Leaders": "Jamica, Dee, Dr. Marcia, Madeline, Helen, and Matt",
         "Description": "Join the panelists as they discuss their diverse intersectional backgrounds and the special considerations that they have while navigating the dance world, and in turn, the special considerations that instructors and organizers might want to consider in their programming. If you have felt panels and presentations at dance events regarding diverse populations have lacked nuance or complexity, this session is for you!",
-        "Location": "Not Needed"
+        "Location": "Dogwood"
     },
     {
         "Date": "December 30",
@@ -293,7 +293,7 @@
         "Short Title": "Movie: TBD",
         "Long Title": "Not Needed",
         "Leaders": "Cindi",
-        "Description": "TBD",
+        "Description": "Probably something fun that you can sing along with.",
         "Location": "Dogwood"
     },
     {
@@ -319,7 +319,7 @@
         "Time": "1p - 3p",
         "Short Title": "Organizers Discuss!",
         "Long Title": "Not Needed",
-        "Leaders": "Jamica, Jon, Julie, Ryan, Kenneth",
+        "Leaders": "Jamica, Jon, Julie, Kenneth, Ryan, Dee, and Matt",
         "Description": "Organizing is hard work and it is too easy to get absorbed in your own event and lose sight of what is happening elsewhere. This session is to focus on the good, bad, and ugly of organizing by inviting veteran organizers to exchange stories and advice. If you are a fellow organizer or would like to be one, then this is a session you don\u2019t want to miss! Consider this a follow up to last year\u2019s successful organizer session, so it will aim to be more in depth and interactive for attendees, everyone is welcome even if they missed last year\u2019s. ",
         "Location": "Dogwood"
     },
