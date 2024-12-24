@@ -64,6 +64,15 @@
     },
     {
         "Date": "December 27",
+        "Time": "5p - 7p",
+        "Short Title": "Led Music Jam",
+        "Long Title": "Not Needed",
+        "Leaders": "Todd",
+        "Description": "Not Needed",
+        "Location": "Hotel Lobby"
+    },
+    {
+        "Date": "December 27",
         "Time": "5:30p - 7:30p",
         "Short Title": "Shootin\u2019 The Sh!t with David Butts",
         "Long Title": "Not Needed",
@@ -136,6 +145,15 @@
     },
     {
         "Date": "December 28",
+        "Time": "5p - 7p",
+        "Short Title": "Special Free Class with Dacid Butts!",
+        "Long Title": "Not Needed",
+        "Leaders": "David Butts",
+        "Description": "We don't have a description for you other than you should probably learn anything David Butts wants to teach.",
+        "Location": "Not Needed"
+    },
+    {
+        "Date": "December 28",
         "Time": "5:30p - 7:30p",
         "Short Title": "Team Rock, Paper, Scissors",
         "Long Title": "Not Needed",
@@ -199,6 +217,15 @@
     },
     {
         "Date": "December 29",
+        "Time": "5p - 7p",
+        "Short Title": "Led Music Jam",
+        "Long Title": "Not Needed",
+        "Leaders": "Todd",
+        "Description": "Not Needed",
+        "Location": "Hotel Lobby"
+    },
+    {
+        "Date": "December 29",
         "Time": "5:30p - 7p",
         "Short Title": "Open Dance Practice",
         "Long Title": "Not Needed",
@@ -225,6 +252,15 @@
         "Location": "Blue Ridge"
     },
     {
+        "Date": "December 29",
+        "Time": "5:30p - 7:30p",
+        "Short Title": "DJ Summit",
+        "Long Title": "Not Needed",
+        "Leaders": "Lindy Focus DJs",
+        "Description": "The Lindy Focus DJs will lead you through a nuanced discussion on DJing swing and blues music. Newbies and long-timers welcome! ",
+        "Location": "Foxfire"
+    },
+    {
         "Date": "December 30",
         "Time": "11a - 1p",
         "Short Title": "Erskine Hawkins in Context",
@@ -241,6 +277,15 @@
         "Leaders": "Jamica, Dee, Dr. Marcia, Madeline, Helen, and Matt",
         "Description": "Join the panelists as they discuss their diverse intersectional backgrounds and the special considerations that they have while navigating the dance world, and in turn, the special considerations that instructors and organizers might want to consider in their programming. If you have felt panels and presentations at dance events regarding diverse populations have lacked nuance or complexity, this session is for you!",
         "Location": "Dogwood"
+    },
+    {
+        "Date": "December 30",
+        "Time": "5p - 7p",
+        "Short Title": "Led Music Jam",
+        "Long Title": "Not Needed",
+        "Leaders": "Todd",
+        "Description": "Not Needed",
+        "Location": "Hotel Lobby"
     },
     {
         "Date": "December 30",
