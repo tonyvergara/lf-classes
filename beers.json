@@ -56,6 +56,20 @@
         "Type": "Beer"
     },
     {
+        "Name": "Moonlight Schwarzbier",
+        "Style": "Serving sizes: Pint, half, taster",
+        "Description": "A classic smooth dark lager with slight roast",
+        "ABV": "4.2%",
+        "Type": "Beer"
+    },
+    {
+        "Name": "Calm Morning Breakfast Stout",
+        "Style": "Serving sizes: 13 oz, half, taster",
+        "Description": "Collaboration with The Stoop Coffee shop. Copious amounts of Ethiopian and Dominican coffee with cocoa and chocolate",
+        "ABV": "8.7%",
+        "Type": "Beer"
+    },
+    {
         "Name": "Quartet Saison",
         "Style": "Serving sizes: 10 oz, taster",
         "Description": "Named for the four different yeast/microbes. We designed this to be like a well balanced meal culminating many different tastes to deliver a refreshingly complex experience of hoppy, funk, tart and Saison character. ",
