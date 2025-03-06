@@ -28,13 +28,6 @@
         "Type": "Beer"
     },
     {
-        "Name": "Ivory Shoulders Belgian Dubbel ",
-        "Style": "Serving sizes: Pint, half, taster",
-        "Description": "Collaboration with Suspended Brewing. Burgundy color and has deeply complex flavors with notes of dried figs, caramel, and honey. The aroma is full of fruity esters with hints of raisin, banana, dried cherry and clove.",
-        "ABV": "7.0%",
-        "Type": "Beer"
-    },
-    {
         "Name": "Liquid Hop Luck IPA ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "American IPA/60 IBU - Copious amounts of Cascsde, Chinook and CTZ hops provide a healthy does of citrus, melon and pine. ",
@@ -93,8 +86,8 @@
     {
         "Name": "House Seltzer",
         "Style": "Serving Size: Pint, half, taster",
-        "Description": "Pomegranite, spiced ginger & citrus ",
-        "ABV": "4.0%",
+        "Description": "Current flavors include Twisted Palmer & Citrus Splash (Orange & Grapefruit) ",
+        "ABV": "Not Needed",
         "Type": "Cider, Seltzer, Non-Alcoholic"
     },
     {
