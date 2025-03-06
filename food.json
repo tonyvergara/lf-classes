@@ -35,18 +35,13 @@
         "Price": "$12.00"
     },
     {
-        "Name": "House Made Pretzel Bites",
-        "Description": "Your choice of cinnamon brown sugar, honey old bay, garlic parm or Doritos Nacho Cheese",
-        "Price": "$8.00"
-    },
-    {
-        "Name": "Turkey and Swiss Panini & Chips",
-        "Description": "Turkey, Swiss, & Helles Dijon Mustard",
-        "Price": "$12.00"
-    },
-    {
         "Name": "Power House Wrap",
         "Description": "Sun Dried Tomato Tortilla, Confit Tomatoes, Spring Mix, Sweet Peppers, choice of Hummus",
         "Price": "$11.00"
+    },
+    {
+        "Name": "Jumbo Wings (8)",
+        "Description": "Choice of buffalo sauce, old bay or honey old bay.",
+        "Price": "$15.00"
     }
 ]
