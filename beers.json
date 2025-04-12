@@ -28,6 +28,13 @@
         "Type": "Beer"
     },
     {
+        "Name": "Camden Copper Ale",
+        "Style": "Serving sizes: Pint, half, taster",
+        "Description": "An ode to our vibrant baseball community. Carmel/malty backbone that is complemented by a subtle grapefruit resin hop character from the kettle whirlpool addition.",
+        "ABV": "6.2%",
+        "Type": "Beer"
+    },
+    {
         "Name": "Liquid Hop Luck IPA ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "American IPA/60 IBU - Copious amounts of Cascsde, Chinook and CTZ hops provide a healthy does of citrus, melon and pine. ",
