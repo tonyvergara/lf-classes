@@ -35,10 +35,10 @@
         "Type": "Beer"
     },
     {
-        "Name": "Liquid Hop Luck IPA ",
+        "Name": "Hopwalker IPA ",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "American IPA/60 IBU - Copious amounts of Cascsde, Chinook and CTZ hops provide a healthy does of citrus, melon and pine. ",
-        "ABV": "5.5%",
+        "ABV": "5.8%",
         "Type": "Beer"
     },
     {
@@ -70,31 +70,24 @@
         "Type": "Beer"
     },
     {
-        "Name": "Quartet Saison",
-        "Style": "Serving sizes: 10 oz, taster",
-        "Description": "Named for the four different yeast/microbes. We designed this to be like a well balanced meal culminating many different tastes to deliver a refreshingly complex experience of hoppy, funk, tart and Saison character. ",
-        "ABV": "6.0%",
+        "Name": "Ay, Diablo Dark Mexican Lager",
+        "Style": "Serving sizes: Pint, half, taster",
+        "Description": "Collab with Mobtown Brewing - Slight roast flavors balanced by corn sweetness and hints of chocolate.",
+        "ABV": "5.0%",
         "Type": "Beer"
     },
     {
-        "Name": "Erised Flanders Red",
-        "Style": "Serving sizes: 10 oz, taster",
-        "Description": "Sour, red wine like impression with intense dried fruit, red currants, plum, black cherries, clove. In Collaboration with Suspended Brewing who gifted us a two year old barrel filled with amber beer we blended with the Ivory Shoulders Belgian Dubbel malt bill and continued to age another few months before kegging.  ",
-        "ABV": "8.5%",
-        "Type": "Beer"
-    },
-    {
-        "Name": "Charm City Bee Cider",
+        "Name": "Bold Rock Cider ",
         "Style": "Serving Size: Pint, half, taster",
         "Description": "Not Needed",
-        "ABV": "6.5%",
+        "ABV": "4.6%",
         "Type": "Cider, Seltzer, Non-Alcoholic"
     },
     {
         "Name": "House Seltzer",
         "Style": "Serving Size: Pint, half, taster",
-        "Description": "Current flavors include Twisted Palmer & Citrus Splash (Orange & Grapefruit) ",
-        "ABV": "Not Needed",
+        "Description": "Citrus Splash - Orange & Grapefruit",
+        "ABV": "5.0%",
         "Type": "Cider, Seltzer, Non-Alcoholic"
     },
     {
