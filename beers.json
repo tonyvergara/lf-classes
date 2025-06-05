@@ -2,7 +2,7 @@
     {
         "Name": "Easyspeak Pre Prohibition Lager ",
         "Style": "Serving sizes: Pint, half, taster",
-        "Description": "Pale, crisp, sessionable. Reminiscent of a Pre-prohibition Pilsner, \nthis light colored lager is made with 20% \ncorn and Motueka hops.  ",
+        "Description": "Pale, crisp, sessionable. Reminiscent of a Pre-prohibition Pilsner, \nthis light colored lager is made with 20% \ncorn and Motueka hops. Currently on tap at Camden Yards.",
         "ABV": "5.0%",
         "Type": "Beer"
     },
@@ -39,6 +39,13 @@
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "American IPA/60 IBU - Copious amounts of Cascsde, Chinook and CTZ hops provide a healthy dose of citrus, melon and pine. ",
         "ABV": "5.8%",
+        "Type": "Beer"
+    },
+    {
+        "Name": "Clouded By The Dark Side DIPA ",
+        "Style": "Serving sizes: Pint, half, taster",
+        "Description": "40 IBU's - This silky smooth DIPA packs bold flavors of Citrus, Mango, and subtle dankness. Amarillo, Motueka, Citra and Simcoe hops. ",
+        "ABV": "8.2%",
         "Type": "Beer"
     },
     {
@@ -84,10 +91,17 @@
         "Type": "Cider, Seltzer, Non-Alcoholic"
     },
     {
-        "Name": "House Seltzer",
+        "Name": "Citrus Splash Hard Seltzer",
         "Style": "Serving Size: Pint, half, taster",
-        "Description": "Citrus Splash - Orange & Grapefruit",
+        "Description": "Orange & Grapefruit. A very sessionable summer beverage that drinks like a crush with a bit less sweetness. Currently on tap at Camden Yards.",
         "ABV": "5.0%",
+        "Type": "Cider, Seltzer, Non-Alcoholic"
+    },
+    {
+        "Name": "House Hard Seltzer's ",
+        "Style": "Serving Size: Pint, half, taster",
+        "Description": "We have rotating seltzer flavors. Come out to the brewery and see what's on tap this week. Some of our favorites have been the Twisted Palmer and Margarita. ",
+        "ABV": "Not Needed",
         "Type": "Cider, Seltzer, Non-Alcoholic"
     },
     {
