@@ -43,5 +43,10 @@
         "Name": "Jumbo Wings (8)",
         "Description": "Choice of buffalo sauce, old bay or honey old bay.",
         "Price": "$15.00"
+    },
+    {
+        "Name": "Creme Brulee",
+        "Description": "Rich Vanilla, custard infused with Turkish coffee reduction",
+        "Price": "$8.00"
     }
 ]
