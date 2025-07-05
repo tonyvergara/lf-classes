@@ -56,10 +56,10 @@
         "Type": "Beer"
     },
     {
-        "Name": "Golden Wisp Hefeweizen",
+        "Name": "Blanche On The Blvd Belgian Witbier",
         "Style": "Serving sizes: Pint, half, taster",
-        "Description": "Traditional Hefeweizen made with 60% wheat malt. Notes of banana, citrus, orange and clove. ",
-        "ABV": "4.8%",
+        "Description": "Authentic Belgian Witbier made with Orange Peel, Corainder, and Chamomile. ",
+        "ABV": "5.2%",
         "Type": "Beer"
     },
     {
@@ -67,13 +67,6 @@
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "A classic smooth dark lager with slight roast",
         "ABV": "4.2%",
-        "Type": "Beer"
-    },
-    {
-        "Name": "Calm Morning Breakfast Stout",
-        "Style": "Serving sizes: 13 oz, half, taster",
-        "Description": "Collaboration with The Stoop Coffee shop. Copious amounts of Ethiopian and Dominican coffee with cocoa and chocolate",
-        "ABV": "8.7%",
         "Type": "Beer"
     },
     {
