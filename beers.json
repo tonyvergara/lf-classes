@@ -21,13 +21,6 @@
         "Type": "Beer"
     },
     {
-        "Name": "Pigtown Pride Porter",
-        "Style": "Serving sizes: Pint, half, taster",
-        "Description": "A mighty complex and robust American porter that is finished with late boil addition Cascade hops that we love. Notes of chocolate and roasted malt. ",
-        "ABV": "5.3%",
-        "Type": "Beer"
-    },
-    {
         "Name": "Camden Copper Ale",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "An ode to our vibrant baseball community. Carmel/malty backbone that is complemented by a subtle grapefruit resin hop character from the kettle whirlpool addition.",
@@ -73,6 +66,13 @@
         "Name": "Ay, Diablo Dark Mexican Lager",
         "Style": "Serving sizes: Pint, half, taster",
         "Description": "Collab with Mobtown Brewing - Slight roast flavors balanced by corn sweetness and hints of chocolate.",
+        "ABV": "5.0%",
+        "Type": "Beer"
+    },
+    {
+        "Name": "Beer Babes India Pale Lager",
+        "Style": "Serving sizes: Pint, half, taster",
+        "Description": "Citra & Amarillo hops, citrus, herbal, crisp",
         "ABV": "5.0%",
         "Type": "Beer"
     },
